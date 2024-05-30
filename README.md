@@ -51,27 +51,4 @@ The goal is to predict whether a patient will show up for a scheduled medical ap
 6. **Visualization:**
    - Create a dashboard in Tableau using appropriate chart types and metrics useful for the business.
 
----
 
-### Instructions for GitHub Repository
-
-1. **Create a New Repository:**
-   - Name it appropriately, e.g., `healthcare-appointment-no-show-prediction`.
-   - Add a README file with a project overview and instructions.
-
-2. **Organize Files:**
-   - Place the case study document and any related files in the repository.
-   - Include the Jupyter notebook `Health Capstone project .ipynb` for data analysis and modeling.
-   - Add a folder for Tableau dashboards.
-
-3. **Document Your Process:**
-   - Explain each step of the data cleaning, EDA, and modeling process.
-   - Include visualizations and their interpretations.
-   - Provide a summary of findings and potential business implications.
-
-4. **Code and Documentation:**
-   - Ensure your code is well-documented.
-   - Include comments explaining each step.
-   - Add a requirements file listing all necessary libraries and tools.
-
-By following these steps, you'll create a comprehensive and well-organized GitHub repository showcasing your work on predicting no-show appointments in the healthcare industry.
